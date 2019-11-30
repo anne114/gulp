@@ -8,9 +8,12 @@
   "license": "MIT",
   "scripts": {},
   "files": [
-    "lib", "bin"
+    "lib",
+    "bin"
   ],
-  "devDependencies": {},
+  "devDependencies": {
+    "lodash": "^4.17.15"
+  },
   "dependencies": {
     "@babel/core": "^7.7.4",
     "@babel/preset-env": "^7.7.4",
